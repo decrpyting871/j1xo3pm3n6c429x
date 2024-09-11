@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwajZkXfTqbxHCIvRqtGVg0EFODTsws891xzL3JIwzVx0XDlFwgn1bFc7xxBQeUf5I4HkbCgfBCtPYjCFEUYfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\CompositionScroll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\notty\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
+    "C:\\Users\\notty\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\notty\\.nuget\\packages\\avalonia.remote.protocol\\11.0.10\\avalonia.remote.protocol.11.0.10.nupkg.sha512",
+    "C:\\Users\\notty\\.nuget\\packages\\ignoresaccesscheckstogenerator\\0.7.0\\ignoresaccesscheckstogenerator.0.7.0.nupkg.sha512",
+    "C:\\Users\\notty\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\notty\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

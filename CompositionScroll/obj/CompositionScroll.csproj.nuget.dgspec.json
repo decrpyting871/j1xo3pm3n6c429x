@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\CompositionScroll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\CompositionScroll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\CompositionScroll.csproj",
+        "projectName": "CompositionScroll",
+        "projectPath": "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\CompositionScroll.csproj",
+        "packagesPath": "C:\\Users\\notty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\notty\\OneDrive\\Desktop\\Exodus\\CompositionScroll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\notty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "IgnoresAccessChecksToGenerator": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

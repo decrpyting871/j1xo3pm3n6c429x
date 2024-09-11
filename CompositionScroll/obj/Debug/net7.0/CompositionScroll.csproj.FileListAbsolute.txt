@@ -1,0 +1,13 @@
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\bin\Debug\net7.0\CompositionScroll.deps.json
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\bin\Debug\net7.0\CompositionScroll.dll
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\bin\Debug\net7.0\CompositionScroll.pdb
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.csproj.AssemblyReference.cache
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.AssemblyInfoInputs.cache
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.AssemblyInfo.cs
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.csproj.CoreCompileInputs.cache
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.dll
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\refint\CompositionScroll.dll
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\CompositionScroll.pdb
+C:\Users\notty\OneDrive\Desktop\Exodus\CompositionScroll\obj\Debug\net7.0\ref\CompositionScroll.dll
